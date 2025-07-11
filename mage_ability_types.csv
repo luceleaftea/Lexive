@@ -10,3 +10,5 @@ Y,during your casting or main phase
 D,at the end of your draw phase
 T2,during your turn
 S,after the turn order deck is shuffled
+AC,during any ally's casting phase
+AM,during any player's main phase
